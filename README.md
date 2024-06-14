@@ -1,8 +1,8 @@
 
 -------------------------------    Fetch-URLs  ---------------------------
 
-
 chmod +x Fetch-URLs.sh
+
 ./Fetch-URLs.sh
 
 Keep Both Fetch-URLs.sh & domain.txt in a same directory 
