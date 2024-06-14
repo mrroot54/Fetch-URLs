@@ -1,5 +1,4 @@
-
--------------------------------    Fetch-URLs  ---------------------------
+ Fetch-URLs
 
 chmod +x Fetch-URLs.sh
 
